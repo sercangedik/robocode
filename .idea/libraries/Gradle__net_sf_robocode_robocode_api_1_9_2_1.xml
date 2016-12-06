@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: net.sf.robocode:robocode.api:1.9.2.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.robocode/robocode.api/1.9.2.1/eae6917fe4ad362f121ba28ce9e7940f172c2685/robocode.api-1.9.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.robocode/robocode.api/1.9.2.1/b59cc39c5b02225f9a63741a1e2ee83f23e06c97/robocode.api-1.9.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
